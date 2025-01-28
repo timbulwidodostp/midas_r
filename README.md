@@ -1,6 +1,8 @@
 # midas_r
 Regression Mixed Data Sampling (MIDAS) Use midas_r (midasr) With (In) R Software
 
+https://www.youtube.com/watch?v=so1fHBzxWWM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
